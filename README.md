@@ -10,11 +10,11 @@ GetBase is based on Python-3.7; any operation system with Python can use it.
 
 ## 3. Input and output format
 
-Input format:
-(example.input)
-Line 1: Species Name, which need to be same with UCSC recorded
-Column 1: Genome position
-Output format:
+Input format: 
+(example.input) 
+Line 1: Species Name, which need to be same with UCSC recorded;
+Column 1: Genome position. 
+Output format: 
 The results including a,t,c,g,-,=,N and blank. All the results are the same annotation with UCSC rule [1]. 
 
 
